@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CK-TOH-99 or CK is also fine.
+- 👋 Hi, I’m CK from Malaysia.
 - 👀 I’m interested in WEB 3.0 developing.
 - 🌱 I’m currently learning python and more in the future.
 - 💞️ I’m looking to collaborate on nothing for now.
